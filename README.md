@@ -1,7 +1,21 @@
-# gaan_notes will place some notes 
+Gaan notes
+==========
 
-[Encripted Data]
-gaan_note.zip 
-gaan_2016.zip
+This area placed documents those technical documents, such as Linux, GCC, Samba…
 
-[Open Data]
+Overview
+--------
+
+Note: Collect those useful technical documents
+
+Private: personal area
+
+\----
+
+1.  git clone <https://github.com/gaanwu/testproject.git>
+
+2.  git commit make some modification and commit
+
+3.  git push
+
+4.  git push origin HEAD:master
